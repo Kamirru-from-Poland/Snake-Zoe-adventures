@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\Snake-Zoe-adventures\Snake Zoe adventures\obj\Debug\net6.0\Snake Zoe adventures.GlobalUsings.g.cs
+C:\Users\PC\Documents\GitHub\Snake-Zoe-adventures\Snake Zoe adventures\obj\Debug\net6.0\Snake Zoe adventures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Snake-Zoe-adventures\Snake Zoe adventures\obj\Debug\net6.0\Snake Zoe adventures.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Snake-Zoe-adventures\Snake Zoe adventures\obj\Debug\net6.0\Snake Zoe adventures.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Snake-Zoe-adventures\Snake Zoe adventures\obj\Debug\net6.0\Snake Zoe adventures.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Snake-Zoe-adventures\Snake Zoe adventures\bin\Debug\net6.0\Snake Zoe adventures.exe
+C:\Users\PC\Documents\GitHub\Snake-Zoe-adventures\Snake Zoe adventures\bin\Debug\net6.0\Snake Zoe adventures.deps.json
+C:\Users\PC\Documents\GitHub\Snake-Zoe-adventures\Snake Zoe adventures\bin\Debug\net6.0\Snake Zoe adventures.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Snake-Zoe-adventures\Snake Zoe adventures\bin\Debug\net6.0\Snake Zoe adventures.dll
+C:\Users\PC\Documents\GitHub\Snake-Zoe-adventures\Snake Zoe adventures\bin\Debug\net6.0\ref\Snake Zoe adventures.dll
+C:\Users\PC\Documents\GitHub\Snake-Zoe-adventures\Snake Zoe adventures\bin\Debug\net6.0\Snake Zoe adventures.pdb
+C:\Users\PC\Documents\GitHub\Snake-Zoe-adventures\Snake Zoe adventures\obj\Debug\net6.0\Snake Zoe adventures.dll
+C:\Users\PC\Documents\GitHub\Snake-Zoe-adventures\Snake Zoe adventures\obj\Debug\net6.0\ref\Snake Zoe adventures.dll
+C:\Users\PC\Documents\GitHub\Snake-Zoe-adventures\Snake Zoe adventures\obj\Debug\net6.0\Snake Zoe adventures.pdb
+C:\Users\PC\Documents\GitHub\Snake-Zoe-adventures\Snake Zoe adventures\obj\Debug\net6.0\Snake Zoe adventures.genruntimeconfig.cache
